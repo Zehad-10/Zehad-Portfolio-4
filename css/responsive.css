@@ -303,3 +303,19 @@
         margin-top: 20px;
     }
 }
+@media only screen and (max-width: 375px) {
+    .port-abs-text {
+        padding: 30px 20px !important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .port-abs-text {
+        padding: 10px 10px !important;
+    }
+
+    .know-btn {
+        margin-top: 10px !important;
+    }
+}
+
